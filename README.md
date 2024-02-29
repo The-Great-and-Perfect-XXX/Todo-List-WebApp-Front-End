@@ -1,6 +1,6 @@
-# Todo-List-WebApp-Front-End
+# Todo-List-WebApp-Front-End (README.md)
 
-## URLs
+## URLs && Resources
 
 **GitHub.com Repos**
 
