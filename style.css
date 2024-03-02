@@ -1,0 +1,15 @@
+h1 { text-align: center;
+    background-color: blue;
+}
+h2 {
+    text-align: center;
+    background: red;
+}
+h3 {
+    text-align: left;
+    background: green;
+}
+p {
+    text-align: left;
+    background: yellow;
+}
