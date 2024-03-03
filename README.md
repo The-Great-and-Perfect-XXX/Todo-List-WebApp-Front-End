@@ -10,9 +10,16 @@ https://github.com/The-Great-and-Perfect-XXX/Todo-List-WebApp-Front-End
 
 https://github.dev/The-Great-and-Perfect-XXX/Todo-List-WebApp-Front-End
 
-**GitHub.io Deploy**
+
+### Deployments
+
+**GitHub.io Deployment**
 
 https://the-great-and-perfect-xxx.github.io/Todo-List-WebApp-Front-End/
+
+**Vercel.com Deployment**
+
+https://todo-list-web-app-front-end.vercel.app/
 
 **Youtube Channels**
 
